@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Blaeriz&theme=tokyonight)](https://git.io/streak-stats)
+
+# 📫 How to reach me: ...
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hppingle)  
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://hppingle.tech)
+
 
 <!--
 **Blaeriz/Blaeriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
