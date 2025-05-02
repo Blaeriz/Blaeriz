@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=Blaeriz&theme=monokai&hide_border=true)
 
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
