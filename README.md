@@ -1,5 +1,3 @@
-# Hrishikesh Deepak Pingle
-
 Undergrad interested in low-latency systems and market microstructure. I like working close to the metal. Most of my projects are in C, C++, or Rust.
 
 Currently looking for internships in systems engineering, quant infrastructure, or backend.
