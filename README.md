@@ -8,7 +8,7 @@ Currently looking for internships in systems engineering, quant infrastructure, 
 
 **Languages** — C, C++
 
-**Learning** - Rust, Go, Zig
+**Learning** - Rust, Go, Zig, KDB+/Q
 
 **Interests** — Low-latency systems, market microstructure, exchange infrastructure
 
